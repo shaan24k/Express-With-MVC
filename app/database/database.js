@@ -12,7 +12,6 @@ module.exports = {
                 if (err) {
                     console.error(err.message);
                 }
-                console.log('database connected successfully.');
             });
 
 
