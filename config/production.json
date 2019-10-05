@@ -1,0 +1,19 @@
+{
+  "db": "db/tileline2019data.db3",
+  "app":{
+    "controllerDir": "app/controllers",
+    "modelDir": "app/models",
+    "helperDir": "app/helpers",
+    "databaseDir": "app/database",
+    "middlewareDir": "app/middleware",
+    "routeDir": "app/routes",
+    "staticDir": "public"
+
+  },
+  "dir": {
+    "public": "public",
+    "pkg": "packages"
+  },
+  "env" : "production",
+  "port" :"80"
+}
